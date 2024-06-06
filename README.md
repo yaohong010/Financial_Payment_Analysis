@@ -1,6 +1,6 @@
 # Financial_Payment_Analysis
 
-This repository contains the code for my analysis to detect fraud activity on a bank payment simulation dataset. 
+This repository contains my analysis of detecting fraud activity on a bank payment simulation dataset. Please check out the notebooks folder to find my analysis in a jupyter notebook.
 
 The source of this dataset could be found here:
 
